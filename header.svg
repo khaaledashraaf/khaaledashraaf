@@ -12,11 +12,10 @@
     
     @media (prefers-color-scheme: dark) {
       .name { fill: #e6edf3; }
-      .cursor { fill: #e6edf3; }
     }
     
     .cursor {
-      fill: #24292f;
+      fill: #d97706;
       animation: blink 1s step-end infinite;
     }
     
