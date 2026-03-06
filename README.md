@@ -1,4 +1,4 @@
-<img src="header.svg" width="590" alt="Khaled Ashraf" />
+<img src="header.svg" width="572" alt="Khaled Ashraf" />
 
 <br />
 
@@ -22,6 +22,7 @@ Building at the intersection of design tools and code.</samp>
 <img src="https://img.shields.io/badge/Framer_Motion-e831c5?style=flat-square&logoColor=white" height="20" alt="Framer Motion" />
 </samp>
 
+<br />
 <br />
 
 <samp><strong>Previously</strong></samp>
