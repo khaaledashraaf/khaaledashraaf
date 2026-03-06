@@ -2,7 +2,7 @@
 
 <br />
 
-<samp>Design Engineer with a background in Computer Engineering.<br />
+<samp>Product Designer with a background in Computer Engineering.<br />
 Building at the intersection of design tools and code.</samp>
 
 <br />
