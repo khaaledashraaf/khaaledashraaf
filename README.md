@@ -1,4 +1,4 @@
-<img src="header.svg" width="420" alt="Khaled Ashraf" />
+<img src="header.svg" width="590" alt="Khaled Ashraf" />
 
 <br />
 
