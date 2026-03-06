@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **khaaledashraaf/khaaledashraaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Khaled Ashraf
+
+Product Design @ noon | B.E. in Computer Engineering
+
+Focused on building thoughtful interfaces and design systems.
+
+## Tech
+Figma • Next.js • Tailwind • TypeScript • Cursor
+
+## Currently
+Improving UI engineering workflows and building side projects.
+
+## Links
+Portfolio: yoursite.com  
+LinkedIn: linkedin.com/in/...
