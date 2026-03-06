@@ -1,30 +1,27 @@
-<!--
-**khaaledashraaf/khaaledashraaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="header.svg" width="420" alt="Khaled Ashraf" />
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>Design Engineer with a background in Computer Engineering.<br />
+Building at the intersection of design tools and code.</samp>
 
-# Khaled Ashraf
+<br />
 
-Product Design @ noon | B.E. in Computer Engineering
+<samp>Currently at <strong>noon</strong> — improving how designers and engineers collaborate.</samp>
 
-Focused on building thoughtful interfaces and design systems.
+<br />
 
-## Tech
-Figma • Next.js • Tailwind • TypeScript • Cursor
+<samp><strong>Working with</strong></samp>
 
-## Currently
-Improving UI engineering workflows and building side projects.
+<samp>Figma · Claude Code · Cursor · Next.js · Tailwind · Framer Motion</samp>
 
-## Links
-Portfolio: yoursite.com  
-LinkedIn: linkedin.com/in/...
+<br />
+
+<samp><strong>Previously</strong></samp>
+
+<samp>OpenGL shaders · Laravel · Lottie · Bootstrap</samp>
+
+<br />
+<br />
+
+<samp><a href="https://yoursite.com">Portfolio</a> · <a href="https://linkedin.com/in/khaaledashraaf">LinkedIn</a></samp>

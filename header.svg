@@ -1,0 +1,31 @@
+<svg width="420" height="50" viewBox="0 0 420 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&amp;display=swap');
+    
+    .name {
+      font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace;
+      font-size: 24px;
+      font-weight: 500;
+      fill: #24292f;
+      letter-spacing: -0.5px;
+    }
+    
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #e6edf3; }
+      .cursor { fill: #e6edf3; }
+    }
+    
+    .cursor {
+      fill: #24292f;
+      animation: blink 1s step-end infinite;
+    }
+    
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+  
+  <text x="0" y="30" class="name">Khaled Ashraf</text>
+  <rect x="188" y="8" width="2" height="26" class="cursor" rx="1" />
+</svg>
