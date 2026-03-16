@@ -34,5 +34,6 @@ Building at the intersection of design tools and code.</samp>
 
 <br />
 <br />
+<br />
 
 <samp><a href="https://khaaledashraaf.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/khaledaelmaleh/">LinkedIn</a></samp>
