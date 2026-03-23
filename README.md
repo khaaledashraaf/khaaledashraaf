@@ -4,8 +4,6 @@
 
 <samp>Design Engineer.</samp>
 
-<br />
-
 <samp>Currently at <strong><a href="https://www.linkedin.com/company/nooncom/">noon</a></strong> building at the intersection of design tools and code.</samp>
 
 <br />
